@@ -1,0 +1,28 @@
+[
+  {
+    "id": "pesan",
+    "text": "Pesan",
+    "submenu": []
+  },
+  {
+    "id": "sub",
+    "text": "Sub Akun",
+    "submenu": []
+  },
+  {
+    "id": "informasi",
+    "text": "Informasi Bisnis",
+    "submenu": [
+      {"id": "profil", "text": "Profil Bisnis"},
+      {"id": "alamat", "text": "Alamat Bisnis"},
+      {"id": "fasilitas", "text": "Fasilitas Bisnis"},
+      {"id": "operasional", "text": "Jam Operasional"},
+      {"id": "medsos", "text": "Media Sosial"}
+    ]
+  },
+  {
+    "id": "tiket",
+    "text": "Tiket Bantuan",
+    "submenu": []
+  }
+]
