@@ -31,7 +31,7 @@ class Header extends Component {
       <header className="header-container">
         <div className="header-side left">
           <a href="/">
-            <img src="http://aryswisnu.com/oy-images/oy-logo.png" className="header-logo" alt=""/>
+            <img src="https://www.aryswisnu.com/img/company-logo-placeholder.png" className="header-logo" alt=""/>
           </a>
           <div className="header-company-name">TokangKonci</div>
         </div>

@@ -8,7 +8,7 @@ import Modal from '../Common_Modal/Common_Modal.js';
 
 const DEFAULT_SIDEBAR = 'profil';
 
-const API_DOMAIN = 'http://aryswisnu.com';
+const API_DOMAIN = 'https://www.aryswisnu.com';
 const API_GET_CUSTOMER_URL = '/api/oy/getCustomer.php?id=';
 const API_UPDATE_PRODUCT_URL = '/api/oy/updateProduct.php';
 const API_DELETE_PRODUCT_URL = '/api/oy/deleteProduct.php';

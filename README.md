@@ -1,11 +1,10 @@
-# OY! Indonesia test (Image Gallery)
+# Image Gallery
 
 ### Installation
 
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-$ cd image-gallery
 $ npm install -d
 $ npm start
 ```
